@@ -1,6 +1,15 @@
 # Learning-Markdown
 
-> Different CodeBlocks for Different Programming Languages provides multiple colours acc. to the keywords..
+## Basic Syntax & Extended Syntax for Markdown File.... (RESOURCES)
+
+- [Basic Syntax Link](https://www.markdownguide.org/basic-syntax)
+
+- [Extended Syntax Link](https://www.markdownguide.org/extended-syntax/)
+
+
+---
+
+## Different CodeBlocks for Different Programming Languages provides multiple colours acc. to the keywords..
 
 ### JavaScript
 
