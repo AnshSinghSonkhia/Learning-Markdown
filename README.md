@@ -3,8 +3,9 @@
 ## Basic Syntax & Extended Syntax for Markdown File.... (RESOURCES)
 
 - [Basic Syntax Link](https://www.markdownguide.org/basic-syntax)
-
 - [Extended Syntax Link](https://www.markdownguide.org/extended-syntax/)
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+- [Mastering Markdown on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
 ---
