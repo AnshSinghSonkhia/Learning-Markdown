@@ -10,7 +10,7 @@
 
 ---
 
-## Different CodeBlocks for Different Programming Languages provides multiple colours acc. to the keywords..
+## Different CodeBlocks for Different Programming Languages provides multiple colours acc. to the keywords.
 
 ### JavaScript
 
